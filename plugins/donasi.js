@@ -9,6 +9,7 @@ let text = `
 │ • *Ovo:* [${global.povo}]
 │ • *Gopay:* [${global.pgopay}]
 │ • *Dana:* [${global.pdana}]
+│ Terima Kasih Atas Donasinya :) Semoga Sehat Selalu Yahh ♡
 ❏────
 `
 const templateButtons = [

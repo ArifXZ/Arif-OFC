@@ -3,14 +3,14 @@ let handler = async (m, { conn }) => {
 //sewa
 let sh = '5'
 let sn = '10'
-let ss = '25'
-let sp = '40'
+let ss = '15'
+let sp = '20'
 let sv = '65'
 //premium
 let ph = '5'
-let pn = '15'
-let pp = '45'
-let pv = '65'
+let pn = '10'
+let pp = '15'
+let pv = '20'
 let ppm = '70'
 let info = `
 *${htki} sᴇᴡᴀ ${htka}*
@@ -18,13 +18,13 @@ let info = `
 ┗$ ${sh}k/grup (1 minggu)
 
 ┏⫹⫺ *ɴᴏʀᴍᴀʟ* 
-┗$ ${sn}k/grup (1 bulan)
+┗$ ${sn}k/grup (2 minggu)
 
 ┏⫹⫺ *sᴛᴀɴᴅᴀʀ* 
-┗$ ${ss}k/grup (2 bulan)
+┗$ ${ss}k/grup (3 minggu)
 
 ┏⫹⫺ *ᴘʀᴏ* 
-┗$ ${sp}k/grup (3 bulan)
+┗$ ${sp}k/grup (1 bulan)
 
 ──···────────────────···──
 
@@ -33,13 +33,13 @@ let info = `
 ┗$ ${ph}k (1 minggu)
 
 ┏⫹⫺ *ɴᴏʀᴍᴀʟ* 
-┗$ ${pn}k (1 bulan)
+┗$ ${pn}k (2 minggu)
 
 ┏⫹⫺ *ɢᴏᴏᴅ* 
-┗$ ${pp}k (3 bulan)
+┗$ ${pp}k (3 minggu)
 
 ┏⫹⫺ *ᴘʀᴏ* 
-┗$ ${pv}k (5 bulan)                                            
+┗$ ${pv}k (1 bulan)                                            
 
 
 *✃ ᴘᴀʏᴍᴇɴᴛ*
@@ -50,10 +50,10 @@ let info = `
 
 –––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
 🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja.. max tawar 5k
+💬: Mau tawar menawar? boleh, silahkan chat owner aja.. #NGOTAKK
 
 🗣️: Scam ga nih kak?
-💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
+💬: Enggalah, Owner 100% Tepati janji #RiiOFC
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `
